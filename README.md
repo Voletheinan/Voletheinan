@@ -5,23 +5,32 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Vo Le Thien An </h1>
+<h1 align="center">Hi 👋, I'm Vo Le Thien An</h1>
 <h3 align="center">A Computer Science student currently learning about Data Engineering</h3>
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="center">
+  <a href="mailto:volethienan5214@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   <a href="https://linkedin.com/in/anthiwnit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://fb.com/AnThiwn05" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
+
+---
+
 <!-- Typing Animation -->
-<!-- Typing Animation (centered, 3 lines, blue #007ACC) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+data+pipelines+one+step+at+a+time;Big+Data+enthusiast;SQL+and+Python+developer" alt="Typing animation">
 </p>
+
 
 ---
 
