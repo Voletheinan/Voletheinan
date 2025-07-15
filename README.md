@@ -8,8 +8,6 @@
 <h1 align="center">Hi 👋, I'm Vo Le Thien An</h1>
 <h3 align="center">A Computer Science student currently learning about Data Engineering</h3>
 
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -24,16 +22,10 @@
   </a>
 </p>
 
----
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+data+pipelines+one+step+at+a+time;Big+Data+enthusiast;SQL+and+Python+developer" alt="Typing animation">
 </p>
-
-
----
-
 ## 🚀 About Me
 
 - 🔭 I’m currently a **2nd year Computer Science student** specializing in Big Data
