@@ -26,6 +26,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+data+pipelines+one+step+at+a+time;Big+Data+enthusiast;SQL+and+Python+developer" alt="Typing animation">
 </p>
+
 ## 🚀 About Me
 
 - 🔭 I’m currently a **2nd year Computer Science student** specializing in Big Data
