@@ -1,4 +1,3 @@
-<img width="263" height="25" alt="image" src="https://github.com/user-attachments/assets/1fd7f0c5-5dec-4900-95a2-092b8e21b931" /><!-- Header Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
