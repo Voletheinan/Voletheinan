@@ -55,10 +55,9 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats-godkingjay.vercel.app/api?username=Voletheinan&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats-godkingjay.vercel.app/?user=Voletheinan&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats-godkingjay.vercel.app?user=Voletheinan&theme=radical" />
 </p>
 
----
 
 
 
