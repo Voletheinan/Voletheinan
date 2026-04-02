@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently a **2nd year Computer Science student** specializing in Big Data
+- 🔭 I’m currently a **third year Computer Science student** specializing in Big Data
 - 🌱 Learning **Spark, Airflow, and cloud data technologies**
 - 💡 Interested in **ETL processes and data infrastructure**
 - 📫 How to reach me: **volethienan5214@gmail.com**
