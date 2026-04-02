@@ -1,34 +1,53 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
 
-<h1 align="center">Vo Le Thien An</h1>
-<h3 align="center">Data Engineering Enthusiast | Building Scalable Data Systems</h3>
+<h1 align="center">Hi 👋, I'm Vo Le Thien An</h1>
+<h3 align="center">A Computer Science student currently learning about Data Engineering</h3>
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:volethienan5214@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://linkedin.com/in/anthiwnit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://fb.com/AnThiwn05" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+data+pipelines+one+step+at+a+time;Big+Data+enthusiast;SQL+and+Python+developer" alt="Typing animation">
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- 🎓 Computer Science student with a strong focus on **Data Engineering**
-- ⚙️ Interested in designing **scalable data pipelines and distributed systems**
-- 📊 Passionate about **ETL/ELT workflows, data modeling, and big data processing**
-- ☁️ Exploring modern **cloud-based data platforms and architectures**
+- 🎓 Third-year Computer Science student with a focus on **Data Engineering**
+- ⚙️ Interested in building **scalable data pipelines and distributed systems**
+- 📊 Passionate about **ETL/ELT workflows and data infrastructure**
+- ☁️ Currently learning **Apache Spark, Airflow, and cloud data platforms**
 - 📫 Contact: **volethienan5214@gmail.com**
 
 ---
 
-## Core Expertise
+## 🧠 Core Expertise
 
 - Data Pipeline Development (**Batch & Streaming**)
-- Distributed Data Processing (**Spark, Kafka**)
+- Distributed Processing (**Spark, Kafka**)
 - Workflow Orchestration (**Airflow**)
-- Data Modeling (**Star Schema, Data Warehousing**)
+- Data Modeling (**Data Warehouse, Star Schema**)
 - ETL / ELT System Design
-- Cloud Data Architecture
 
 ---
 
-## 🛠 Technologies I Work With 
+## 🛠 Technologies I Work With (Data Engineering Focus)
+
 <div align="center">
   <table>
     <tr>
@@ -60,16 +79,16 @@
 
 ---
 
-##  Current Focus
+## 📌 Current Focus
 
-- 🚀 Building **end-to-end data pipelines (batch & real-time)**
-- ⚡ Developing **streaming systems with Kafka & Spark**
-- 🏗 Designing **data warehouse architectures**
-- ☁️ Applying **modern data stack (Airflow, DBT, Cloud)**
+- 🚀 Building **end-to-end data pipelines**
+- ⚡ Working with **real-time data (Kafka, Spark Streaming)**
+- 🏗 Designing **data warehouse systems**
+- ☁️ Exploring **modern data stack (Airflow, DBT, Cloud)**
 
 ---
 
-## Advanced Data Engineering Analytics
+## 📊 Advanced Data Engineering Analytics
 
 <div align="center">
   <br>
@@ -81,7 +100,7 @@
 
 ---
 
-## Contribution Velocity
+## ⚡ Contribution Velocity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Voletheinan&theme=radical&border_radius=10" width="80%" />
@@ -90,5 +109,5 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
