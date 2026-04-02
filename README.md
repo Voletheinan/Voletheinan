@@ -1,101 +1,94 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vo Le Thien An</h1>
+<h1 align="center">Vo Le Thien An</h1>
 <h3 align="center">Data Engineering Enthusiast | Building Scalable Data Systems</h3>
 
-## 🌐 Connect with Me
+---
 
-<p align="center">
-  <a href="mailto:volethienan5214@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/anthiwnit">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://fb.com/AnThiwn05">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
+## About Me
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Designing+Data+Pipelines;Building+ETL+Workflows;Working+with+Big+Data+and+Cloud" />
-</p>
-
-## 🚀 About Me
-
-- 🎓 Computer Science student specializing in **Data Engineering**
-- ⚙️ Focused on **data pipelines, ETL/ELT systems, and data infrastructure**
-- 📊 Passionate about transforming **raw data → reliable insights**
-- ☁️ Learning modern **cloud-based data platforms**
+- 🎓 Computer Science student with a strong focus on **Data Engineering**
+- ⚙️ Interested in designing **scalable data pipelines and distributed systems**
+- 📊 Passionate about **ETL/ELT workflows, data modeling, and big data processing**
+- ☁️ Exploring modern **cloud-based data platforms and architectures**
 - 📫 Contact: **volethienan5214@gmail.com**
 
 ---
 
-## 🛠 Tech Stack (Data Engineering Focus)
+## Core Expertise
 
-### 🔹 Programming & Query
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🔹 Data Processing & Big Data
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"/>
-</p>
-
-### 🔹 Data Pipeline & Orchestration
-<p align="center">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-</p>
-
-### 🔹 Databases & Data Warehousing
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
-</p>
-
-### 🔹 Cloud & Storage
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
-### 🔹 DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
+- Data Pipeline Development (**Batch & Streaming**)
+- Distributed Data Processing (**Spark, Kafka**)
+- Workflow Orchestration (**Airflow**)
+- Data Modeling (**Star Schema, Data Warehousing**)
+- ETL / ELT System Design
+- Cloud Data Architecture
 
 ---
 
-## 📌 Current Focus
-
-- 🚀 Building **end-to-end data pipelines (batch & streaming)**
-- ⚡ Learning **real-time data processing (Kafka, Spark Streaming)**
-- 🏗 Designing **data warehouse & data modeling (Star Schema)**
-- ☁️ Working with **modern data stack (DBT, Airflow, Cloud)**
-
----
-
-<!-- Snake Game -->
+## 🛠 Technologies I Work With 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <b>Data Processing</b><br><br>
+        <img src="https://skillicons.dev/icons?i=python" /><br><br>
+        <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/><br>
+        <img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"/>
+      </td>
+      <td width="33%" align="center">
+        <b>Data Pipeline & Storage</b><br><br>
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br><br>
+        <img src="https://img.shields.io/badge/Data%20Warehouse-6A5ACD?style=for-the-badge"/>
+      </td>
+      <td width="33%" align="center">
+        <b>Cloud & Infrastructure</b><br><br>
+        <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,linux,git" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📊 GitHub Stats
+---
+
+##  Current Focus
+
+- 🚀 Building **end-to-end data pipelines (batch & real-time)**
+- ⚡ Developing **streaming systems with Kafka & Spark**
+- 🏗 Designing **data warehouse architectures**
+- ☁️ Applying **modern data stack (Airflow, DBT, Cloud)**
+
+---
+
+## Advanced Data Engineering Analytics
+
+<div align="center">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Voletheinan&theme=radical" width="80%" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Voletheinan&theme=radical" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Voletheinan&theme=radical" width="40%" />
+</div>
+
+---
+
+## Contribution Velocity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Voletheinan&theme=radical&border_radius=10" width="80%" />
+</div>
+
+---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-godkingjay.vercel.app/api?username=Voletheinan&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats-godkingjay.vercel.app?user=Voletheinan&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
